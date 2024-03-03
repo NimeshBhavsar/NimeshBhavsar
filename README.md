@@ -1,22 +1,102 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimesh_bh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimesh-bh) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nimeshbhavsar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimeshbhavsar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshbhavsar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nimeshbhavsar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 👨‍💻 Hey, I'm Nimesh Bhavsar - Full-stack Developer
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/NimeshBhavsar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/NimeshBhavsar/)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=nimeshbhavsar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Quick Overview
+ #### 🌱 Always exploring the latest in web technologies and backend frameworks.
+ #### 💡 Open to collaborate on web development and backend projects.
+ #### 🤔 Currently diving deep into Python and Machine Learning.
+ #### 💬 Let's discuss all things web and backend development!
+## 🛠️ Skills & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frontend Development
+ **Languages:** HTML, CSS, JavaScript
+
+### Backend Development
+ **Languages:** Java, Python, C/C++, JavaScript
+ **Frameworks/Libraries:** Numpy (Python), Collections (Python)
+ **API Development:** REST api
+ **Database:** PostgreSQL/MongoDB
+
+### Tools & Environment
+ **Version Control:** Git
+ **IDE:** Visual Studio Code
+ **API Testing:** Postman / Insomnia
+ **Hosting:** pythonanywhere.com
+
+### Project Management
+
+#### Methodologies & Practices
+ **Agile Framework:**
+   Applying Agile principles for adaptive and iterative development.
+   Embracing flexibility to address changing project requirements (SOLID).
+   Conducting regular sprint planning and retrospectives for continuous improvement.
+
+#### Scrum Practices
+ Maintaining a prioritized backlog for efficient task management, ensuring alignment with project objectives.
+
+#### Kanban Board
+ Employing Kanban for visualizing workflow and optimizing task progression.
+ Monitoring work-in-progress limits to enhance team efficiency.
+
+### Problem Solving
+
+#### Approach
+ My problem-solving approach involves a comprehensive analysis, examining issues from various angles and breaking them down into manageable components.
+
+#### Methodologies
+ #### **Root Cause Analysis:** Identifying core issues to address fundamental problems.
+ #### **Creative Thinking:** Leveraging innovative and out-of-the-box solutions.
+ #### **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
+
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBhavsar&show_icons=true&theme=dark)
+
+## 🌟 Fun Facts
+ I once built a SocialMediaApplication in under 18 hours!
+ I can solve a Rubik's Cube in under a minute!
+
+## My most interesting projects
+
+<div style="display: flex; justify-content: space-around;">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=NimeshBhavsar&repo=hostel_hub&theme=dark)](https://github.com/NimeshBhavsar/hostel_hub)
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=NimeshBhavsar&repo=MSTeams-Auto-Joiner&theme=dark)](https://github.com/NimeshBhavsar/MSTeams-Auto-Joiner)
+
+</div>
+<div style="display: flex; justify-content: space-around;">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=NimeshBhavsar&repo=MobileAttendanceSystem&theme=dark)](https://github.com/NimeshBhavsar/MobileAttendanceSystem)
+
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=NimeshBhavsar&repo=Spam_Message_Detection&theme=dark)](https://github.com/NimeshBhavsar/Spam_Message_Detection)
+
+
+</div>
+
+## My Future Projects
+
+### Powerful Social Media Platform
+
+ **Description:** Creating a powerful social media platform with support for desktop and Android on the web.
+
+   **Features:**
+     Web support for both desktop and Android.
+     Seamless integration with other social platforms such as GitHub, Google, and others.
+
+   **Goals:**
+     Provide a user-friendly interface.
+     Enhance user experience with responsive design.
+     Enable easy connectivity to multiple social platforms.
+
+   **Timeline:**
+     Planning: March 25, 2024
+     Development: March 25, 2024 - May 15, 2024
+     Testing: May 15, 2024 - May 26, 2024
+     Deployment: June 1, 2024
